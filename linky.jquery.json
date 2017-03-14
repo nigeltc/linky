@@ -1,0 +1,33 @@
+{
+    "name": "linky",
+    "title": "Linky jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+	"content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Nigel Thornton Clark",
+        "url": "http://githuh.com/nigeltc"
+    },
+    "maintainers": [
+        {
+            "name": "Nigel Thornton Clark",
+            "email": "nigeltc@gmail.com",
+            "url": "http://github.com/nigeltc"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/nigeltc/linky/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/nigeltc/linky",
+    "docs": "https://github.com/nigeltc/linky",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
